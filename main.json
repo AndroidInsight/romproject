@@ -44,5 +44,21 @@
      "s2": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81428.jpg",
  "s3": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81429.jpg",
   "s4": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81430.jpg"
+  },
+  {
+     "name": "CR Droid",
+     "type": "Unofficial",
+    "ver": "7.6",
+   "androidv": "Android 11",
+   "device": "J7elte J700F",
+    "maintainer": "FlominatorGD",
+     "bugs": "Mic issues on some device",
+     "image": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1981511053-83341.jpg",
+      "download": "https://drive.google.com/file/d/1hidcee4zGGxr6mZelI6mZ_mc3QBTItrD/view",
+     "s1": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81409.jpg",
+     "s2": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81411.jpg",
+     "s3": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81415.jpg",
+     "s4": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81412.jpg"
+    
   }
 ]
