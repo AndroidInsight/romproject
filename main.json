@@ -60,5 +60,21 @@
      "s3": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81415.jpg",
      "s4": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/msg1162404102-81412.jpg"
     
+  },
+  {
+"name": "Kasumi Rom",
+"type": "Unofficial",
+"ver": "1.0",
+"androidv": "Android 11",
+"device": "j7elte J700F/H/M",
+"maintainer": "SirRGB",
+"bugs": "No bugs",
+"image": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-01-05_20-59-13.jpg",
+"download": "https://sourceforge.net/projects/sirrgb-roms/files/j7elte/Project_Kasumi/Kasumi-1.0-PoPiPa-20220105-UNOFFICIAL-ReleasePreview-j7elte.zip/download",
+"s1": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-01-05_23-49-19.jpg",
+"s2": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-01-06_00-12-28.jpg",
+"s3": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-01-05_23-49-18.jpg",
+"s4": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-01-05_23-49-20%20(2).jpg"
+
   }
 ]
