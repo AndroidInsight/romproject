@@ -76,5 +76,22 @@
 "s3": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-01-05_23-49-18.jpg",
 "s4": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-01-05_23-49-20%20(2).jpg"
 
+  },
+  {
+    "name": "Cipher OS",
+     "type": "Unofficial",
+    "ver": "1.7",
+   "androidv": "Android 11",
+   "device": "j7elte J700F/H/M",
+    "maintainer": "ASHWANI",
+     "bugs": "No keyboard inculded",
+     "image": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/17%20(2).png",
+      "download": "https://drive.google.com/file/d/1hidcee4zGGxr6mZelI6mZ_mc3QBTItrD/view",
+     "s1": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/Screenshot_20220116-071640.png",
+     "s2": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/Screenshot_20220116-145247_Cipher_Launcher.png",
+     "s3": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/Screenshot_20220116-145234_Cipher_Launcher.png",
+     "s4": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/Screenshot_20220116-071523_Settings.png"
+    
+
   }
-]
+  ]
