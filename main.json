@@ -109,5 +109,23 @@
      "s3": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/Screenshot_20211228-194824_Designs_%26_Hintergr%C3%BCnde.png",
      "s4": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/Screenshot_20211228-194915_Trebuchet.png"
     
+  },
+  {
+  "name": "Resurrection Remix",
+     "type": "Unofficial",
+    "ver": "8.7.3",
+   "androidv": "Android 10",
+   "device": "j7elte J700F/H/M",
+    "maintainer": "Freesoul",
+     "bugs": "Home button wake",
+     "image": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/rr-logo.png",
+      "download": "https://mega.nz/file/J1REBbRI#ZbQwD1_cCmLYNbwM1HiPw3tDrawYekKy45N_-P3nWZQ",
+     "s1": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-02-07_01-28-54.jpg",
+     "s2": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-02-07_01-28-53.jpg",
+     "s3": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-02-07_01-28-54%20(3).jpg",
+     "s4": "https://raw.githubusercontent.com/AndroidInsight/romproject.json/main/files/photo_2022-02-07_01-28-54%20(2).jpg"
+    
+    
   }
-]
+  ]
+  
